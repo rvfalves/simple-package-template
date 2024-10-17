@@ -1,4 +1,4 @@
-# package_name
+# SIMPLE BANK PACKAGE
 
 Description. 
 The package simple-bank-package is used to:
