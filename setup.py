@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="simple-bank-package",
-    version="0.0.2",
+    version="0.0.3",
     author="Rafael Alves",
     author_email="rvf_alves@yahoo.com.br",
     description="Simple functions for bank operation",
